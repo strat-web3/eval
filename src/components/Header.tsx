@@ -300,6 +300,11 @@ export default function Header() {
                 <Portal>
                   <MenuPositioner>
                     <MenuContent minWidth="auto">
+                      <Link href="/instructions" color="white">
+                        <MenuItem value="instructions" fontSize="md" px={4} py={3}>
+                          Instructions
+                        </MenuItem>
+                      </Link>
                       <Link href="/settings" color="white">
                         <MenuItem value="settings" fontSize="md" px={4} py={3}>
                           {t.navigation.settings}

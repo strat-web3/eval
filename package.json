@@ -25,6 +25,7 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
     "react-syntax-highlighter": "^16.1.0",
     "secrets.js-34r7h": "^2.0.2",
     "w3pk": "^0.8.8"
@@ -49,5 +50,6 @@
       "sharp",
       "unrs-resolver"
     ]
-  }
+  },
+  "packageManager": "pnpm@10.23.0+sha1.b4a44ab0dc2adf2e36371d11d8eb0dc78ffc976c"
 }
